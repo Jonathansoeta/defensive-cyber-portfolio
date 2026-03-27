@@ -4,5 +4,4 @@
 - Security guards
 - Access card readers
 - Multifactor Authentication
-
-![My photo](IMG_1348.heic)
+![My photo](multifactorauthentication.png)
