@@ -14,7 +14,7 @@ https://www.theaustralian.com.au/nation/former-attorneygeneral-christian-porter-
 - The victim suffered injuries and was hospitalized.
 - The suspect remains at large, raising concerns about violent opportunistic crime.
 
-https://www.news.com.au/national/western-australia/servo-attendant-run-down-after-person-allegedly-fled-without-paying-for-fuel/news-story/eedbfbcb59b9926276a0f6bd79e7a835 [web]
+https://www.news.com.au/national/western-australia/servo-attendant-run-down-after-person-allegedly-fled-without-paying-for-fuel/news-story/eedbfbcb59b9926276a0f6bd79e7a835
 
 3. Invasion Day Rally Bomb Attempt (Jan 2026)
 - A man threw a homemade explosive device into a crowd of ~2,500 people in the CBD.
