@@ -4,3 +4,4 @@
 2. Keypad lock
 3. Physical key lock
 4. Fingerprint scanner
+5. Wireless/Mobile Devices
