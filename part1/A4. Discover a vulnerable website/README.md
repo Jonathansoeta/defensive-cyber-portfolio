@@ -1,6 +1,6 @@
 # A4 – Discover a vulnerable website
 
-## I looked at a university-related website and observed that it may have security or privacy weaknesses based on how it handles student data.  
+I looked at a university-related website and observed that it may have security or privacy weaknesses based on how it handles student data.  
 
 In particular, anyone on the internet can search for student information without logging in, which raises questions about access control and privacy.
 
