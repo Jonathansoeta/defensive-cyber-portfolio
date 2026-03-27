@@ -21,3 +21,5 @@ This system is an example of applied cryptography because it uses:
 - **Encryption**: The 20-digit token encodes information in a secure way so it cannot be easily forged.
 - **Authentication**: Only the correct meter with the right secret key accepts the token.
 - **Replay protection**: Counters or similar techniques prevent the same token from being used more than once.
+
+![My photo](Evidence/Electric.jpg)
