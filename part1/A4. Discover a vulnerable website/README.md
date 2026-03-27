@@ -9,4 +9,4 @@ https://mahasiswa.undiksha.ac.id/data/search?fakultas=all&jurusan=all&mhs=jonath
 
 Even when a website is publicly accessible, it should still protect personal information and apply appropriate access control and privacy settings.  
 
-![My photo](evidence/website.png)
+![My photo](Evidence/website.png)
