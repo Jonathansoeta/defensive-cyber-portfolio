@@ -11,4 +11,4 @@ This makes it harder for strangers or attackers to link my online activity back 
 This technique helps protect my privacy and reduces the risk of **doxxing**. I use it when I am testing websites, joining forums, or using apps where I do not need to share my true identity.
 
 
-![My photo](evidence/Email.png)
+![My photo](Evidence/Email.png)
