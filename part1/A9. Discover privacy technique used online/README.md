@@ -9,3 +9,6 @@ Instead of using my real name, my main email address, and my real age, I create:
 This makes it harder for strangers or attackers to link my online activity back to my real identity. If someone tries to search for my real name or email, they will not easily find my accounts or personal information.
 
 This technique helps protect my privacy and reduces the risk of **doxxing**. I use it when I am testing websites, joining forums, or using apps where I do not need to share my true identity.
+
+
+![My photo](evidence/email.png)
