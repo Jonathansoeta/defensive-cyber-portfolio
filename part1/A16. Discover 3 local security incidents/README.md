@@ -6,7 +6,7 @@ For this activity, I researched three local security incidents connected to Pert
 
 In August 2025, the University of Western Australia reported a major cyber attack that exposed thousands of staff and student passwords.
 
-![My photo](/uwa.png)
+![My photo](uwa.png)
 
 ## 2. WA government Microsoft 365 security incident
 
