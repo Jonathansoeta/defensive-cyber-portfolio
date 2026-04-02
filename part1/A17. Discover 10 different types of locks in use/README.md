@@ -1,5 +1,4 @@
 # A17 – Discover 10 different types of locks in use
-
 1. **Padlock**  
 A removable lock with a shackle that can be attached to chains, lockers, or gates. It is commonly used for gates, storage units, and lockers.
 
