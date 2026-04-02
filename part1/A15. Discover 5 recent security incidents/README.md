@@ -1,6 +1,5 @@
 # A15 – Discover 5 recent security incidents
 
-## Recent security incidents
 1. Alleged Terror Plot Targeting Key Sites (March 2026)
 - A 20-year-old man was charged with planning a mass-casualty terrorist attack.
 - Targets allegedly included police headquarters, WA Parliament, and places of worship.
