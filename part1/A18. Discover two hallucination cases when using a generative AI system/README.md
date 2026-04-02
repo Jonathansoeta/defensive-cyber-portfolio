@@ -1,7 +1,5 @@
 # A18. Discover two hallucination cases when using a generative AI system
 
-A hallucination happens when a generative AI system gives false information but presents it as if it is correct.
-
 ## 1. Air Canada chatbot case
 
 One hallucination case happened with the Air Canada chatbot. The chatbot gave a customer wrong information about bereavement fares and said he could ask for a refund later. This was not Air Canada’s real policy. The customer trusted the chatbot, bought the ticket, and later won compensation.
