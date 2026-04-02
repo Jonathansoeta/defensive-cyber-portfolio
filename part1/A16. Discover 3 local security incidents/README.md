@@ -1,7 +1,5 @@
 # A16. Discover 3 local security incidents
 
-For this activity, I researched three local security incidents connected to Perth or Western Australia.
-
 ## 1. UWA data breach
 
 In August 2025, the University of Western Australia reported a major cyber attack that exposed thousands of staff and student passwords.
